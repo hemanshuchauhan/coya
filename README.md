@@ -1,2 +1,2 @@
 # coya
-coya
+Coya Application automation sample
