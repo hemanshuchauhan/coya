@@ -1,2 +1,2 @@
 # coya
-Coya Application automation sample
+Sample Automation exercise for Coya
