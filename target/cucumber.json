@@ -1,0 +1,144 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 12448846926,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "customer is on coya.com",
+            "match": {
+              "location": "homePageStepDefn.customer_is_on_coya_com()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 304137,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 7,
+        "name": "verify Title of the Homepage should be in German Langauge",
+        "description": "",
+        "id": "coya-homepage-feature;verify-title-of-the-homepage-should-be-in-german-langauge",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43681129,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "verify title of the homepage",
+            "match": {
+              "location": "homePageStepDefn.verify_title_of_the_homepage()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 6,
+            "name": "@s1"
+          }
+        ]
+      },
+      {
+        "line": 3,
+        "name": "",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 13969466387,
+              "status": "passed"
+            },
+            "line": 4,
+            "name": "customer is on coya.com",
+            "match": {
+              "location": "homePageStepDefn.customer_is_on_coya_com()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 231567,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.beforeScenario()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "User changes the Language to English and verify the tabs in English",
+        "description": "",
+        "id": "coya-homepage-feature;user-changes-the-language-to-english-and-verify-the-tabs-in-english",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1093894991,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "user selects EN as language",
+            "match": {
+              "location": "homePageStepDefn.user_selects_EN_as_language()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 653594516,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "Tabs should be displayed in english",
+            "match": {
+              "location": "homePageStepDefn.tabs_should_be_displayed_in_english()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 10,
+            "name": "@R1"
+          }
+        ]
+      }
+    ],
+    "name": "coya HomePage Feature",
+    "description": "",
+    "id": "coya-homepage-feature",
+    "keyword": "Feature",
+    "uri": "homePage.feature"
+  }
+]
