@@ -13,7 +13,7 @@ import cucumber.api.junit.Cucumber;
 				glue = {"StepDefn"}
 	
 //		dryRun = false,
-	//	tags = {"@R1"},
+	//	tags = {"@scenario1"},
 	//	monochrome = true
 		
 
