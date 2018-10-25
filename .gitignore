@@ -1,0 +1,11 @@
+# Logs
+logs
+*.log
+
+# dotenv environment variables file
+.env
+
+
+# Java
+*.war
+*.ear
