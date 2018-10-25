@@ -20,7 +20,7 @@ and place th executable chromedriver EXE strictly at location C:\chromedriver
 (It has been asked to place chromedriver only on above place because this path has been set on framework. 
 If you want to install chromedriver somewhere else, then please chance the path in framework)
 
-3. Go to the folder where you cloned the project and run below commands:
+3. Go to the folder where you cloned the project and run below commands in sequence in command prompt:
 mvn clean
 mvn install
 mvn test
