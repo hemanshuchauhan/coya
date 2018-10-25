@@ -1,5 +1,5 @@
 # coya
-Sample Automation exercise for Coya
+Sample BDD based Automation framework - Coya
 
 ===============
 This is a sample BDD based automation framework build with selenium, cucumber-jvm and Maven.
