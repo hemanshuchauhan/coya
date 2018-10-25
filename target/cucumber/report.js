@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 304137,
+  "duration": 342063,
   "status": "passed"
 });
 formatter.background({
@@ -26,7 +26,7 @@ formatter.match({
   "location": "homePageStepDefn.customer_is_on_coya_com()"
 });
 formatter.result({
-  "duration": 12448846926,
+  "duration": 12121263982,
   "status": "passed"
 });
 formatter.scenario({
@@ -52,11 +52,11 @@ formatter.match({
   "location": "homePageStepDefn.verify_title_of_the_homepage()"
 });
 formatter.result({
-  "duration": 43681129,
+  "duration": 55403507,
   "status": "passed"
 });
 formatter.before({
-  "duration": 231567,
+  "duration": 372695,
   "status": "passed"
 });
 formatter.background({
@@ -75,7 +75,7 @@ formatter.match({
   "location": "homePageStepDefn.customer_is_on_coya_com()"
 });
 formatter.result({
-  "duration": 13969466387,
+  "duration": 14217454583,
   "status": "passed"
 });
 formatter.scenario({
@@ -106,14 +106,14 @@ formatter.match({
   "location": "homePageStepDefn.user_selects_EN_as_language()"
 });
 formatter.result({
-  "duration": 1093894991,
+  "duration": 512432941,
   "status": "passed"
 });
 formatter.match({
   "location": "homePageStepDefn.tabs_should_be_displayed_in_english()"
 });
 formatter.result({
-  "duration": 653594516,
+  "duration": 304590380,
   "status": "passed"
 });
 });
