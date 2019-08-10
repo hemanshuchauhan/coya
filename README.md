@@ -1,15 +1,15 @@
 # coya
 Sample BDD based Automation framework - Coya
+  
+===============  
+  This is a sample BDD based automation framework build with selenium, cucumber-jvm and Maven.
 
-===============. 
-This is a sample BDD based automation framework build with selenium, cucumber-jvm and Maven.
-
-###Prerequisites to run the framework:
+### Prerequisites to run the framework:
 1. Install Java (JDK + JRE) and set env variable
 2. Install Maven and set env variable
 3. Its good to have eclipse or some other IDE. Otherwise execution can happen through cmd prompt as well
 
-###Steps to use automation framework:
+### Steps to use automation framework:
 1.Clone/Download the project from repo: https://github.com/hemanshuchauhan/coya
 
 2.Install Maven and Java on your machine and set environment variables for JAVA_HOME & MAVEN_HOME
